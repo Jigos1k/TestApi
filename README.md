@@ -1,7 +1,7 @@
 <h2>Жигайло Никита, Backend-разработчик </h2>
 <div>E-mail: nikitazhig1@yandex.ru</div>
 <div>Телефон: +7 904 118-74-07</div>
-<div>Telegram: https://t.me/shakal38</div>
+<div>Telegram: <a href="https://t.me/shakal38">Никитос</a></div>
 <div>Иркутск, Иркутская область, (GMT+8)</div>
 
 <h3>О задании</h3>
